@@ -6,9 +6,9 @@
 * [Introduction](#introduction)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Adding Semantics](#addingsemantics)
-* [Can I See Some IDs](#caniseesomeids)
-* [Thorough Condensing](#thoroughcondensing)
+* [Adding Semantics](#adding-semantics)
+* [Can I See Some IDs](#can-i-see-some-ids)
+* [Thorough Condensing](#thorough-condensing)
 * [License](#license)
 
 
